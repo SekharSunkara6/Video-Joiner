@@ -1,9 +1,7 @@
 The app's live link to test in the browser is: https://fabric-video-editor.vercel.app/
 
-Do you need a custom editor? Get in touch with me at [Linked In](https://www.linkedin.com/in/amit-digga/)
-Other: [Website](https://www.amitdigga.dev/) | [Twitter](https://twitter.com/AmitDigga) |
-
-This was a hobby project. I will add support for other features in the future. Looking for backend/ffmpeg developers to help me generate video from Canvas in the backend.
+Do you need a custom editor? Get in touch with me at [Linked In]( http://www.linkedin.com/in/sekhar-sunkara-1b869b1a8)
+Other: [Website](  https://github.com/SekharSunkara6) | 
 
 # Fabric Video Editor
 
@@ -11,9 +9,6 @@ Fabric Video Editor is a video editor that runs in the browser. It is built with
 
 
 ## Samples
-
-### 3. New Updated UI
-<img width="1727" alt="Screenshot 2024-02-22 at 12 09 30 PM" src="https://github.com/AmitDigga/fabric-video-editor/assets/7884106/7246996c-259c-4730-ba19-af060cc94018">
 
 ### 2. The editor supports Animations and Effects
 
